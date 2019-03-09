@@ -1,0 +1,8 @@
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\bin\Debug\binary search.exe
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\bin\Debug\binary search.pdb
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\bin\Debug\binary search.xml
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\obj\x86\Debug\binary search.vbproj.GenerateResource.Cache
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\obj\x86\Debug\binary search.exe
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\obj\x86\Debug\binary search.xml
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\obj\x86\Debug\binary search.pdb
