@@ -6,3 +6,11 @@ C:\Users\Talha\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debu
 C:\Users\Talha\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\Talha\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
 C:\Users\Talha\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Linked List Ordered\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Linked List Ordered\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Linked List Ordered\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Linked List Ordered\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Linked List Ordered\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Linked List Ordered\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Linked List Ordered\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Linked List Ordered\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache

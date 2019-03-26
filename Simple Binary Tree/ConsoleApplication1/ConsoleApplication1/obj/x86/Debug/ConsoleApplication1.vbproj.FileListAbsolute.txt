@@ -6,6 +6,3 @@ C:\Users\Talha\Desktop\A2 ALGORITHMS\Simple Binary Tree\ConsoleApplication1\Cons
 C:\Users\Talha\Desktop\A2 ALGORITHMS\Simple Binary Tree\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\Talha\Desktop\A2 ALGORITHMS\Simple Binary Tree\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
 C:\Users\Talha\Desktop\A2 ALGORITHMS\Simple Binary Tree\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
-C:\Users\Talha\Documents\GitHub\A2-Programs\Simple Binary Tree\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
-C:\Users\Talha\Documents\GitHub\A2-Programs\Simple Binary Tree\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
-C:\Users\Talha\Documents\GitHub\A2-Programs\Simple Binary Tree\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

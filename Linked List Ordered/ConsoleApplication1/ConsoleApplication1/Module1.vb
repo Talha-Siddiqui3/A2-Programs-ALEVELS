@@ -1,4 +1,11 @@
 ﻿Module Module1
+    'NOT PART OF PRE RELEASE BUT BOOK MEIN HAI SO :))
+
+    'CREATE LL
+    'INSERT NODES IN ORDER
+    'OUTPUT NODES
+    'DELETE SPECIFIC NODE
+
 
     Structure LLNode
         Dim Pointer As Integer
@@ -13,13 +20,26 @@
 
     Sub Main()
         Call InitialiseList()
-        For count = 0 To 7
-            InsertNode(Console.ReadLine)
-        Next
-        OutputArray()
-        OutputItems()
+        Dim MenuChoice As Integer = 0
+        While MenuChoice <> 5
+            Console.WriteLine("1: to ADD A NODE.")
+            Console.WriteLine("2: to OUTPUT ALL NODES IN ORDER.")
+            Console.WriteLine("3: to OUTPUT LL IMPLEMENTED BY ARRAY.")
+            Console.WriteLine("4: to DELETE A NODE.")
+            Console.WriteLine("5: Exit")
 
-        Console.ReadKey()
+            MenuChoice = Console.ReadLine
+            Select Case MenuChoice
+                Case 1 : InsertNode()
+                Case 2 : OutputItems()
+                Case 3 : OutputArray()
+                Case 4 : DeleteNode()
+                Case 5 'DO NOTHING xD
+                Case Else : Console.WriteLine("Wrong Choice. Please try again")
+            End Select
+
+        End While
+
 
     End Sub
 
@@ -36,7 +56,9 @@
     End Sub
 
 
-    Sub InsertNode(ByVal DataInputted As String)
+    Sub InsertNode()
+        Console.WriteLine("Enter the node which you want to insert.")
+        Dim DataInputted As String = Console.ReadLine
         Dim NewNodePtr As Integer
         Dim CurrentNodePtr As Integer
         Dim PreviousNodePtr As Integer
@@ -88,6 +110,39 @@
             Console.WriteLine("  " & Nodes(CurrentNodePtr).Data)
             CurrentNodePtr = Nodes(CurrentNodePtr).Pointer
         End While
+    End Sub
+
+    Sub DeleteNode()
+        Dim NodeToDelete As String
+        Dim NodeFound = False
+        Dim CurrentNodePtr As Integer = StartPointer
+        Dim PreviousNodePtr As Integer
+        Console.WriteLine("Enter the node which you want to delete.")
+        NodeToDelete = Console.ReadLine
+
+        'We check all nodes in linked by follwing each node's pointer to next node untill we find our desired item
+        While CurrentNodePtr <> NULLPOINTER And NodeFound = False
+            If Nodes(CurrentNodePtr).Data = NodeToDelete Then
+                NodeFound = True
+                If (CurrentNodePtr = StartPointer) Then
+                    'This means the node we wanna delete is foudn to be at start of Linked List or in other words the first node of Linked List.
+                    StartPointer = Nodes(CurrentNodePtr).Pointer
+                Else
+                    Nodes(PreviousNodePtr).Pointer = Nodes(CurrentNodePtr).Pointer   'VERY IMP
+                End If
+                'Add the deleted node to freelist
+                Nodes(CurrentNodePtr).Pointer = FreePointer
+                FreePointer = CurrentNodePtr
+                Nodes(CurrentNodePtr).Data = "" 'set data to blank
+            Else
+                PreviousNodePtr = CurrentNodePtr
+                CurrentNodePtr = Nodes(CurrentNodePtr).Pointer
+            End If
+        End While
+
+        If (NodeFound = False) Then
+            Console.WriteLine("NODE NOT FOUND")
+        End If
     End Sub
 
 

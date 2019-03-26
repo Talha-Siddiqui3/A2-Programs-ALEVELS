@@ -33,6 +33,9 @@
             Console.WriteLine("  " & count & Space(7) & currentNode.LeftPointer & Space(3) & currentNode.Data & Space(12 - Len(currentNode.Data)) & currentNode.RightPointer)
         Next
 
+        Console.WriteLine() 'JUST TO LEAVE A LINE IN OUTPUT
+        TraverseInOrder(RootPointer)
+
 
         Console.ReadKey()
 
@@ -103,7 +106,24 @@
     End Sub
 
 
+    Sub TraverseInOrder(ByVal CurrNodePointer As Integer)
 
+        If CurrNodePointer <> NULLPOINTER Then
+
+            'Keep moving left untill nullpointer
+            TraverseInOrder(Nodes(CurrNodePointer).LeftPointer)
+
+
+            'OUTPUT
+            Console.WriteLine(Nodes(CurrNodePointer).Data)
+
+            'Keep moving right untill nullpointer
+            TraverseInOrder(Nodes(CurrNodePointer).RightPointer)
+
+
+        End If
+
+    End Sub
 
 
 End Module
