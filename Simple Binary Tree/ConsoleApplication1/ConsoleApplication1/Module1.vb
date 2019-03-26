@@ -80,7 +80,7 @@
             Nodes(TempPos).Data = Val
             Nodes(curPos).LeftPointer = TempPos
         Else
-            curPos = Nodes(curPos).RightPointer
+            curPos = Nodes(curPos).LeftPointer
             SelectLeftOrRightNode(curPos, Val)
         End If
 
