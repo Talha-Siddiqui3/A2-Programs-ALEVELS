@@ -1,0 +1,16 @@
+C:\Users\Talha\Desktop\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\bin\Debug\RandomFilingAddRecord.exe
+C:\Users\Talha\Desktop\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\bin\Debug\RandomFilingAddRecord.pdb
+C:\Users\Talha\Desktop\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\bin\Debug\RandomFilingAddRecord.xml
+C:\Users\Talha\Desktop\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Talha\Desktop\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\RandomFilingAddRecord.vbproj.GenerateResource.Cache
+C:\Users\Talha\Desktop\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\RandomFilingAddRecord.exe
+C:\Users\Talha\Desktop\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\RandomFilingAddRecord.xml
+C:\Users\Talha\Desktop\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\RandomFilingAddRecord.pdb
+C:\Users\Talha\Desktop\A2 ALGORITHMS\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\RandomFilingAddRecord.exe
+C:\Users\Talha\Desktop\A2 ALGORITHMS\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\RandomFilingAddRecord.xml
+C:\Users\Talha\Desktop\A2 ALGORITHMS\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\RandomFilingAddRecord.pdb
+C:\Users\Talha\Desktop\A2 ALGORITHMS\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\bin\Debug\RandomFilingAddRecord.exe
+C:\Users\Talha\Desktop\A2 ALGORITHMS\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\bin\Debug\RandomFilingAddRecord.pdb
+C:\Users\Talha\Desktop\A2 ALGORITHMS\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\bin\Debug\RandomFilingAddRecord.xml
+C:\Users\Talha\Desktop\A2 ALGORITHMS\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Talha\Desktop\A2 ALGORITHMS\vb projects\RandomFilingAddRecord\RandomFilingAddRecord\obj\x86\Debug\RandomFilingAddRecord.vbproj.GenerateResource.Cache
