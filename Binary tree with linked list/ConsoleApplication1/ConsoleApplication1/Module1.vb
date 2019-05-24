@@ -37,6 +37,11 @@
         TraverseInOrder(RootPointer)
 
 
+        Console.WriteLine() 'JUST TO LEAVE A LINE IN OUTPUT
+        Console.WriteLine("Please enter data to seacrch")
+        Dim searchstring As String = Console.ReadLine()
+        FindNodePointer(searchstring)
+
         Console.ReadKey()
 
 
@@ -123,6 +128,22 @@
 
         End If
 
+    End Sub
+
+    Sub FindNodePointer(ByVal data As String)
+        Dim currNodePointer As Integer = RootPointer
+        While currNodePointer <> NULLPOINTER And data <> Nodes(currNodePointer).Data
+            If data > Nodes(currNodePointer).Data Then
+                currNodePointer = Nodes(currNodePointer).RightPointer
+            Else
+                currNodePointer = Nodes(currNodePointer).LeftPointer
+            End If
+        End While
+        If currNodePointer = NULLPOINTER Then
+            Console.WriteLine("Searched value not found")
+        Else
+            Console.WriteLine("Pointer is: " & currNodePointer)
+        End If
     End Sub
 
 
