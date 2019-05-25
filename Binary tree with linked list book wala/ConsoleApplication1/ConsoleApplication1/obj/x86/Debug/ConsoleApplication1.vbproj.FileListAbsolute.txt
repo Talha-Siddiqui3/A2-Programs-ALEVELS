@@ -1,0 +1,16 @@
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary tree with linked list\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary tree with linked list\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary tree with linked list\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary tree with linked list\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary tree with linked list\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary tree with linked list\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary tree with linked list\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary tree with linked list\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+G:\Binary tree with linked list book wala\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\Binary tree with linked list book wala\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+G:\Binary tree with linked list book wala\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+G:\Binary tree with linked list book wala\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Binary tree with linked list book wala\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Binary tree with linked list book wala\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+G:\Binary tree with linked list book wala\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+G:\Binary tree with linked list book wala\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
