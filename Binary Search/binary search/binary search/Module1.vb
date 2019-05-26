@@ -32,7 +32,7 @@
         Dim isFound As Boolean = False
         Dim MID As Integer = 0
 
-        While (UB >= LB And isFound = False)
+        While (LB <= UB And isFound = False)
             MID = (UB + LB) / 2 'As the data types are integers so result is also an integer instead of decimal or we can use \' 'NOTE: Use DIV in Psedocode
             If myArr(MID) = searchVal Then
                 Console.WriteLine("Found your search value " & searchVal & " at location: " & MID)

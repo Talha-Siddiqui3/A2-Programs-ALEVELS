@@ -6,3 +6,6 @@ C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\o
 C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\obj\x86\Debug\binary search.exe
 C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\obj\x86\Debug\binary search.xml
 C:\Users\Talha\Desktop\A2 ALGORITHMS\Binary Search\binary search\binary search\obj\x86\Debug\binary search.pdb
+C:\Users\Talha\Documents\GitHub\A2-Programs\Binary Search\binary search\binary search\obj\x86\Debug\binary search.exe
+C:\Users\Talha\Documents\GitHub\A2-Programs\Binary Search\binary search\binary search\obj\x86\Debug\binary search.xml
+C:\Users\Talha\Documents\GitHub\A2-Programs\Binary Search\binary search\binary search\obj\x86\Debug\binary search.pdb
