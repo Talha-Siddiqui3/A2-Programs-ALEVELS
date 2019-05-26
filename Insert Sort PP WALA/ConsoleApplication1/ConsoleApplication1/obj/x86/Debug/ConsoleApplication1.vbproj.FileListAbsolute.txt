@@ -6,3 +6,14 @@ C:\Users\Talha\Desktop\A2 ALGORITHMS\Insert Sort Book Wala\ConsoleApplication1\C
 C:\Users\Talha\Desktop\A2 ALGORITHMS\Insert Sort Book Wala\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\Talha\Desktop\A2 ALGORITHMS\Insert Sort Book Wala\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
 C:\Users\Talha\Desktop\A2 ALGORITHMS\Insert Sort Book Wala\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\Talha\Desktop\A2 ALGORITHMS\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Talha\Desktop\CIE MAIN Algorithms\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Talha\Desktop\CIE MAIN Algorithms\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.xml
+C:\Users\Talha\Desktop\CIE MAIN Algorithms\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Talha\Desktop\CIE MAIN Algorithms\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Talha\Desktop\CIE MAIN Algorithms\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Talha\Desktop\CIE MAIN Algorithms\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\Talha\Desktop\CIE MAIN Algorithms\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\Talha\Desktop\CIE MAIN Algorithms\Insert Sort PP WALA\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
